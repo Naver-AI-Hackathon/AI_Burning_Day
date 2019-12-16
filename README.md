@@ -1,1 +1,1 @@
-# AI_Burning_Day
+# NAVER AI_Burning_Day
