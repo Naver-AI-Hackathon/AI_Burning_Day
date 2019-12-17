@@ -207,8 +207,8 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 * @@@@
 
 ## 문의
-FAQ 이외의 궁금한 사항은 <a href="https://github.com/Naver-AI-Hackathon/AI_Burning_Day/issues"> Q&A이슈에 질의를 남겨주세요. 
-담당자가 확인하고 답변드립니다.<br>
+FAQ 이외의 궁금한 사항은Q&A이슈에 질의를 남겨주세요.담당자가 확인하고 답변드립니다.<br>
+<a href="https://github.com/Naver-AI-Hackathon/AI_Burning_Day/issues"> https://github.com/Naver-AI-Hackathon/AI_Burning_Day/issues
 개인정보가 포함된 문의사항은 <dl_naver_aihack@navercorp.com>로 메일바랍니다. 
 
 
