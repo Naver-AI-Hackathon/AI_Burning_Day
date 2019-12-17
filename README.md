@@ -107,7 +107,7 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
     <td style="text-align:center">1/21(화)~1/31(금)</td>
     <td>
       기획안 제출 + 코딩 테스트<br>
-      <a href="https://hack.nsml.navercorp.com">https://hack.nsml.navercorp.com @@수정해야함</a>
+      (추후 안내 예정)
     </td>
   </tr>
   <tr>
@@ -171,7 +171,7 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 ### 심사 기준
 * 독창성(30%) : 얼마나 독창적인 기술 혹은 아이디어인가 
 * 기술성(50%) : 기술구현에 있어서 얼마나 난이도가 있는가 
-* 프로젝트 운영(20%) : 얼마나 체계적으로 구성하여 개발을 진행하는가
+* 프로젝트 운영(20%) : 얼마나 체계적으로 구성하여 개발을 진행하는가 <br>
 **서비스의 완성도 보다는 프로젝트 기술 완성도를 중점적으로 평가합니다.**
 
 ### ※ 참가 규칙 
@@ -207,8 +207,9 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 * @@@@
 
 ## 문의
-FAQ 이외의 궁금한 사항은 Q&A 이슈에 질의 남겨주시면 담당자가 확인하고 답변드립니다 @@ 링크 넣기 ? .<br>
-dl_naver_aihack@navercorp.com
+FAQ 이외의 궁금한 사항은 <a href="https://github.com/Naver-AI-Hackathon/AI_Burning_Day/issues"> Q&A이슈에 질의를 남겨주세요. 
+담당자가 확인하고 답변드립니다.<br>
+개인정보가 포함된 문의사항은 <dl_naver_aihack@navercorp.com>로 메일바랍니다. 
 
 
 
