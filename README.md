@@ -17,7 +17,7 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 <table>
   <tr style="background-color:#fff">
     <td style="text-align:center">
-      <img src="mentor/mentor_1.png" width="100"><br>
+      <img src="mentor/mentor_1.png"><br>
       <strong>Sung kim</strong><br>
       Clova Ai Leader
     </td>
