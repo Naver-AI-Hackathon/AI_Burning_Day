@@ -17,27 +17,27 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 <table>
   <tr style="background-color:#fff">
     <td style="text-align:center">
-      <img src="mentor/mentor_1.jpg" width="100"><br>
+      <img src="mentor/mentor_1.png" width="100"><br>
       <strong>Sung kim</strong><br>
       Clova Ai Leader
     </td>
     <td style="text-align:center">
-      <img src="res/kdh.jpg"><br>
+      <img src="mentor/mentor_2.png"><br>
        <strong>권문범</strong><br>
       Platform Dev2
     </td>
     <td style="text-align:center">
-      <img src="res/smj.jpg"><br>
+      <img src="mentor/mentor_3.png"><br>
        <strong>전병민</strong><br>
       CONOMI 개발
     </td>
     <td style="text-align:center">
-      <img src="res/shj.jpg"><br>
+      <img src="mentor/mentor_4.png"><br>
        <strong>전혁수</strong><br>
       CONOMI 개발
     </td>
     <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_6.png"><br>
       <strong>이경일</strong><br>
       CONOMI 개발
     </td>
@@ -46,32 +46,32 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
  <table>
    <tr style="background-color:#fff">
     <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_7.png"><br>
       <strong>송원근</strong><br>
       UGC 개발
     </td>
    <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_5.png"><br>
       <strong>구동현</strong><br>
       UGC FE 개발
     </td>
     <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_8.png"><br>
       <strong>신재경</strong><br>
       Maps 개발
     </td>
     <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_9.png"><br>
       <strong>서경석</strong><br>
       Maps FE 개발
     </td>
     <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_10.png"><br>
       <strong>정다운</strong><br>
       Data Analytics
     </td>
     <td style="text-align:center">
-      <img src="res/ckh.jpg"><br>
+      <img src="mentor/mentor_11.png"><br>
       <strong>손경성</strong><br>
       쇼핑검색개발
     </td>
