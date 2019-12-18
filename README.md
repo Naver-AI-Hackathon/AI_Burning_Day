@@ -145,6 +145,21 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 
 ## 미션
 * 제공하는 **네이버 클라우드 플랫폼 API**를 활용한 앱 또는 웹 개발 
+
+
+<table>
+  <tr style="background-color:#fff">
+    <td style="text-align:center">
+      <img src="mentor/mentor_1.png"><br>
+      <strong>Sung kim</strong><br>
+      Clova Ai Leader
+    </td>
+    <td style="text-align:center">
+      <img src="mentor/mentor_2.png"><br>
+       <strong>권문범</strong><br>
+      Platform Dev2
+    </td>
+
 > ※ 위 개발 조건을 충족하지 않은 결과물은 우수팀 선정 평가에 불이익이 있을 수 있습니다.<br>
 
 ## 진행 방식 및 심사 기준
