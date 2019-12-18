@@ -150,14 +150,37 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 <table>
   <tr style="background-color:#fff">
     <td style="text-align:center">
-      <img src="mentor/mentor_1.png"><br>
-      <strong>Sung kim</strong><br>
-      Clova Ai Leader
+      <img src="logo/logo_clova.png"><br>
+      </td>
+    <td style="text=align:center">- Clova Speech Recognition(CSR)<br>
+      - Clova Speech Synthesis(CSS)<br>
+      - Clova Premium Voice(CPV)<br>
+      - Clova Face Recognition(CFR)
     </td>
     <td style="text-align:center">
-      <img src="mentor/mentor_2.png"><br>
-       <strong>권문범</strong><br>
-      Platform Dev2
+      <img src="logo/logo_papago.png"><br>
+    </td>
+       <td>- Papago SMT(19.05.06 service end)<br>
+         - Papago NMT<br>
+         - Papago Language Detection<br>
+         - Papago Korean Name Romanizer
+    </td>
+      <td style="text-align:center">
+      <img src="logo/logo_machinelearning.png"><br>
+    </td>
+       <td>- Pose Estimation<br>
+         - Object Detection<br>
+    </td>
+</table>
+
+<table class="tbl_schedule">
+  <tr>
+    <td>
+      <strong>참가 접수</strong><br>
+    </td>
+    <td style="text-align:center">~1월/20(월)</td>
+    <td>
+      누구나
     </td>
 
 > ※ 위 개발 조건을 충족하지 않은 결과물은 우수팀 선정 평가에 불이익이 있을 수 있습니다.<br>
