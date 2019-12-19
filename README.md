@@ -234,9 +234,9 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
     <td>
       500만원<br>
     </td>
-    <td style="text-align:center">200만원</td>
+    <td style="text-align:center">300만원</td>
     <td>
-      300만원
+      200만원
     </td>
   </tr>
  </table>
