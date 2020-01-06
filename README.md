@@ -240,6 +240,11 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
     </td>
   </tr>
  </table>
+ 
+## 네이버클라우드플랫폼 API 사용법 가이드
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t1rqKmrrWPU" frameborder="0" allowfullscreen></iframe>
+
 
 ## FAQ
 * @@@@
