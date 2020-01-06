@@ -243,17 +243,8 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
  
 ## 네이버클라우드플랫폼 API 사용법 가이드
 
-[![Watch the video](https://i.imgur.com/t1rqKmrrWPUw.png)](https://youtu.be/t1rqKmrrWPUw)
-
-
-[![Video Label](http://img.youtube.com/vi/t1rqKmrrWPUw/0.jpg)]
-(https://youtu.be/t1rqKmrrWPU?t=0s) Video Label
-
 [![Watch the video](https://img.youtube.com/vi/t1rqKmrrWPUw/maxresdefault.jpg)](https://youtu.be/t1rqKmrrWPUw)
 
-
-## FAQ
-* @@@@
 
 ## 문의
 FAQ 이외의 궁금한 사항은Q&A이슈에 질의를 남겨주세요.담당자가 확인하고 답변드립니다.<br>
