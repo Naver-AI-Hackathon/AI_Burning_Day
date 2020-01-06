@@ -247,6 +247,7 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 [![Video Label](http://img.youtube.com/vi/t1rqKmrrWPUw/0.jpg)]
 (https://youtu.be/t1rqKmrrWPU?t=0s) Video Label
 
+[![Watch the video](https://img.youtube.com/vi/t1rqKmrrWPUw/maxresdefault.jpg)](https://youtu.be/t1rqKmrrWPUw)
 
 
 ## FAQ
