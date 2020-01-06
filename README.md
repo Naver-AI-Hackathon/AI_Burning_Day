@@ -244,6 +244,7 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 ## 네이버클라우드플랫폼 API 사용법 가이드
 
 [클릭하여 영상보기](https://youtu.be/t1rqKmrrWPUw)
+<img src="api_guide_02.mp4">
 
 
 ## 문의
