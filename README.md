@@ -244,9 +244,9 @@ Speech, Vision, OCR, Voice, 얼굴인식 등과 같이 네이버의 인공지능
 ## 네이버클라우드플랫폼 API 사용법 가이드
 >각 스텝을 클릭하여 영상으로 가이드를 확인하세요.
 
-[STEP1.네이버클라우드플랫폼 회원가입하고 무료 크레딧 받기](https://youtu.be/MvO4ryJgum8)
-[STEP2.네이버클라우드플랫폼에서 AI Service API 찾아가기](https://youtu.be/LOEPM3w782A)
-[STEP3.네이버클라우드플랫폼에서 AI Service API 활용해보기](https://youtu.be/2E2mBt_jXP8)
+[STEP1.네이버클라우드플랫폼 회원가입하고 무료 크레딧 받기](https://youtu.be/MvO4ryJgum8)<br>
+[STEP2.네이버클라우드플랫폼에서 AI Service API 찾아가기](https://youtu.be/LOEPM3w782A)<br>
+[STEP3.네이버클라우드플랫폼에서 AI Service API 활용해보기](https://youtu.be/2E2mBt_jXP8)<br>
 
 
 
